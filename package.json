@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "Sairam Bandi Portfolio",
-  "homepage": "https://github.com/stagwithadream/stagwithadream.github.io.git",
+  "homepage": "https://stagwithadream.github.io.git",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
