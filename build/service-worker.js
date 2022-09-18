@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/stagwithadream/stagwithadream.github.io.git/precache-manifest.30f7f463bba59ec2f5f4df1dd44d7923.js"
+  "/stagwithadream/stagwithadream.github.io.git/precache-manifest.9183a7b2992b3e39e21bcaa4e7726be7.js"
 );
 
 self.addEventListener('message', (event) => {

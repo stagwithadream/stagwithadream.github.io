@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/stagwithadream/stagwithadream.github.io.git/static/css/main.97388b6c.chunk.css",
-    "main.js": "/stagwithadream/stagwithadream.github.io.git/static/js/main.b4858fb2.chunk.js",
-    "main.js.map": "/stagwithadream/stagwithadream.github.io.git/static/js/main.b4858fb2.chunk.js.map",
+    "main.js": "/stagwithadream/stagwithadream.github.io.git/static/js/main.8f559482.chunk.js",
+    "main.js.map": "/stagwithadream/stagwithadream.github.io.git/static/js/main.8f559482.chunk.js.map",
     "runtime-main.js": "/stagwithadream/stagwithadream.github.io.git/static/js/runtime-main.cf92f86a.js",
     "runtime-main.js.map": "/stagwithadream/stagwithadream.github.io.git/static/js/runtime-main.cf92f86a.js.map",
     "static/js/2.efc7f440.chunk.js": "/stagwithadream/stagwithadream.github.io.git/static/js/2.efc7f440.chunk.js",
     "static/js/2.efc7f440.chunk.js.map": "/stagwithadream/stagwithadream.github.io.git/static/js/2.efc7f440.chunk.js.map",
     "index.html": "/stagwithadream/stagwithadream.github.io.git/index.html",
-    "precache-manifest.30f7f463bba59ec2f5f4df1dd44d7923.js": "/stagwithadream/stagwithadream.github.io.git/precache-manifest.30f7f463bba59ec2f5f4df1dd44d7923.js",
+    "precache-manifest.9183a7b2992b3e39e21bcaa4e7726be7.js": "/stagwithadream/stagwithadream.github.io.git/precache-manifest.9183a7b2992b3e39e21bcaa4e7726be7.js",
     "service-worker.js": "/stagwithadream/stagwithadream.github.io.git/service-worker.js",
     "static/css/main.97388b6c.chunk.css.map": "/stagwithadream/stagwithadream.github.io.git/static/css/main.97388b6c.chunk.css.map",
     "static/media/index.css": "/stagwithadream/stagwithadream.github.io.git/static/media/Montserrat-Regular.ee653992.ttf",
@@ -53,6 +53,6 @@
     "static/js/runtime-main.cf92f86a.js",
     "static/js/2.efc7f440.chunk.js",
     "static/css/main.97388b6c.chunk.css",
-    "static/js/main.b4858fb2.chunk.js"
+    "static/js/main.8f559482.chunk.js"
   ]
 }
